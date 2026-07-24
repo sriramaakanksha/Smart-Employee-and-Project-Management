@@ -32,10 +32,10 @@ The new users can create an account by providing the required details. The regis
 ### 3. 📊 Role-Based Dashboard
 
 The Admin dashboard provides an overview of important system information such as employees, projects, tasks, and reports. The displayed information depends on the user's role and access permissions.
-![Dashboard](screenshots/Admin Dashboard.png)
+![Dashboard](screenshots/AdminDashboard.png)
 
 The Employee Dashboard provides employees with a personalized overview of their assigned work and current activities. Employees can view their assigned tasks, monitor completed tasks, track task progress, and upcoming deadlines.
-![Dashboard](screenshots/Employee Dashboard.png)
+![Dashboard](screenshots/EmployeeDashboard.png)
 
 ### 4. 👥 Employee Management
 
