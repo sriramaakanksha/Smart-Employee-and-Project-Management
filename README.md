@@ -90,6 +90,7 @@ SEMP/
 │   ├── ARCHITECTURE.md             # System Architecture & ER Diagram
 │   ├── API_DOCUMENTATION.md        # Complete REST API reference
 │   └── USER_GUIDE.md               # User manual & credentials
+|__ screenshots
 └── README.md                       # Master Documentation
 ```
 
