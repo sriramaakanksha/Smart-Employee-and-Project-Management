@@ -14,49 +14,59 @@
 
 ## System Flowchart
 
-![System Flowchart](screenshots/08_flowchart.png)
+![System Flowchart](screenshots/Flowchart.png)
 
 ## Application Screenshots
+The application provides authentication, employee management, project management, task tracking, dashboard visualization, search and filtering, and reporting features.
 
-### 1. Login Page
+### 1. 🔐 Login Page
 
+The login page allows registered users to securely access the system using their email and password.
 ![Login Page](screenshots/Login.png)
 
-### 2. Register Page
+### 2. 📝 Register Page
 
+The new users can create an account by providing the required details. The registration process validates user information before creating the account.
 ![Register Page](screenshots/Register.png)
 
-### 3. Dashboard
+### 3. 📊 Role-Based Dashboard
 
-![Dashboard](screenshots/Admin dashboard.png)
-![Dashboard](screenshots/Employee dashboard.png)
+The Admin dashboard provides an overview of important system information such as employees, projects, tasks, and reports. The displayed information depends on the user's role and access permissions.
+![Dashboard](screenshots/Admin Dashboard.png)
 
-### 4. Employee Management
+The Employee Dashboard provides employees with a personalized overview of their assigned work and current activities. Employees can view their assigned tasks, monitor completed tasks, track task progress, and upcoming deadlines.
+![Dashboard](screenshots/Employee Dashboard.png)
 
+### 4. 👥 Employee Management
+
+The Employee Management module allows only authorized users to add, update, delete, view, and search employee records. Employees can also be organized and managed using search, pagination, and sorting features.
 ![Employee Management](screenshots/Employees.png)
 
-### 5. Project Management
+### 5. 📁 Project Management
 
+The Project Management module enables authorized users to create and manage projects, assign employees.
 ![Project Management](screenshots/Projects.png)
+
+The Project Management section with Employee access allows employees to view their assigned projects, monitor project status and priority, and track important deadlines and responsibilities.
 ![Project Management](screenshots/Projects(Employee).png)
 
-### 6. Task Management
+### 6. ✅ Task Management
 
+The Task Management module allows tasks to be created and assigned to employees. Users can update task progress, change task status, and add remarks for better task tracking.
 ![Task Management](screenshots/Tasks.png)
+
+The Task Management section with employee access allows employees to view their assigned tasks, update task progress, change task status, and add remarks, helping them effectively manage and track their responsibilities.
 ![Task Management](screenshots/Tasks(Employee).png)
 
+### 7. 📈 Reports
 
-### 7. Reports
-
+The Reports section provides useful information such as employee-wise task reports, project progress reports, and pending task reports. Also downloadable as PDF & Excel report exports. 
 ![Reports](screenshots/Reports.png)
 
-### 8. Department
+### 8. 🏢 Department
 
+The Department Management feature organizes employees based on their respective departments and enables efficient searching and filtering of employee records.
 ![Department](screenshots/Departments.png)
-
-## System Flowchart
-
-![System Flowchart](screenshots/08_flowchart.png)
 
 
 ## 🌟 Key Features
@@ -140,7 +150,7 @@ SEMP/
 │   ├── API_DOCUMENTATION.md        # Complete REST API reference
 │   └── USER_GUIDE.md               # User manual & credentials
 ├── screenshots/
-|    ├── Flowchart.png
+|   ├── Flowchart.png
 |   ├── Login.png
 |   ├── Register.png
 |   ├── Admin Dashboard.png
