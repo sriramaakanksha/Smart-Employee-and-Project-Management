@@ -10,6 +10,55 @@
 
 ---
 
+# Smart Employee & Project Management System
+
+## System Flowchart
+
+![System Flowchart](screenshots/08_flowchart.png)
+
+## Application Screenshots
+
+### 1. Login Page
+
+![Login Page](screenshots/Login.png)
+
+### 2. Register Page
+
+![Register Page](screenshots/Register.png)
+
+### 3. Dashboard
+
+![Dashboard](screenshots/Admin dashboard.png)
+![Dashboard](screenshots/Employee dashboard.png)
+
+### 4. Employee Management
+
+![Employee Management](screenshots/Employees.png)
+
+### 5. Project Management
+
+![Project Management](screenshots/Projects.png)
+![Project Management](screenshots/Projects(Employee).png)
+
+### 6. Task Management
+
+![Task Management](screenshots/Tasks.png)
+![Task Management](screenshots/Tasks(Employee).png)
+
+
+### 7. Reports
+
+![Reports](screenshots/Reports.png)
+
+### 8. Department
+
+![Department](screenshots/Departments.png)
+
+## System Flowchart
+
+![System Flowchart](screenshots/08_flowchart.png)
+
+
 ## 🌟 Key Features
 
 1. **Authentication & Security**
@@ -90,7 +139,19 @@ SEMP/
 │   ├── ARCHITECTURE.md             # System Architecture & ER Diagram
 │   ├── API_DOCUMENTATION.md        # Complete REST API reference
 │   └── USER_GUIDE.md               # User manual & credentials
-|__ screenshots
+├── screenshots/
+|    ├── Flowchart.png
+|   ├── Login.png
+|   ├── Register.png
+|   ├── Admin Dashboard.png
+|   ├── Employee Dashboard.png
+|   ├── Departments.png
+|   ├── Employees.png
+|   ├── Projects.png
+|   ├── Projects(Employee).png
+|   ├── Reports.png
+|   ├── Tasks.png
+|   ├── Tasks(Employee).png|    
 └── README.md                       # Master Documentation
 ```
 
